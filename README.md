@@ -1,0 +1,1 @@
+# magento247-virtualhost-local-setup
